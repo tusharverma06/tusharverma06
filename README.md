@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)]
+![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
