@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharverma06&label=Profile%20views&color=0e75b6&style=flat" alt="tusharverma06" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tusharverma_41" target="blank"><img src="https://img.shields.io/twitter/follow/tusharverma_41?logo=twitter&style=for-the-badge" alt="tusharverma_41" /></a> </p>
 
