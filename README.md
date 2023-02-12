@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [Image Craft](https://imagecraft-htmgm0ced-tusharverma06.vercel.app/) -->
 - 🔭 I’m currently working on a meme generator app 
-- 
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [www.tusharv.xyz](www.tusharv.xyz)
