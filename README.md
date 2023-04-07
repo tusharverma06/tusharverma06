@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/tusharrvrma" target="blank"><img src="https://img.shields.io/twitter/follow/tusharrvrma?logo=twitter&style=for-the-badge" alt="tusharrvrma" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Image Craft](https://imagecraft-htmgm0ced-tusharverma06.vercel.app/) -->
-- 🔭 I’m currently working on a meme generator app 
+- 🔭 I’m currently working on [LinkCollect](https://twitter.com/linkcollect_io)
 
 - 🌱 I’m currently learning **React**
 
