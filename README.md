@@ -10,7 +10,7 @@
 <!-- - 🔭 I’m currently working on [Image Craft](https://imagecraft-htmgm0ced-tusharverma06.vercel.app/) -->
 - 🔭 I’m currently working on [LinkCollect](https://twitter.com/linkcollect_io)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Tailwind**
 
 - 👨‍💻 All of my projects are available at [www.tusharv.xyz](www.tusharv.xyz)
 
