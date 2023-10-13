@@ -10,7 +10,7 @@
 <!-- - 🔭 I’m currently working on [Image Craft](https://imagecraft-htmgm0ced-tusharverma06.vercel.app/) -->
 - 🔭 I’m currently looking for some freelance projects
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 All of my projects are available at [www.tusharv.xyz](www.tusharv.xyz)
 
@@ -38,6 +38,13 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/117444846/235337708-82d90832-c36a-47e1-a29e-4ccb5ff3b09f.png" alt="tailwind" width="40" height="40"/>
+  </a>
+ 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Next.js-900x0.png" alt="next" width="60" height="40"/>
   </a>
 </p>
 
