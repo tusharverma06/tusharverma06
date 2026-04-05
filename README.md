@@ -17,7 +17,7 @@ Farcaster · RainbowKit · SIWE · Reown AppKit · Figma
 ```
 
 **a few things i've shipped**
-- [Emerge](https://tryemerge.xyz) - helps you monetize your ai generated content ( 50k+ generations w/ 8k+ collections)
+- [Emerge](https://tryemerge.xyz) - helps you monetize your ai generated content ( scaled to 72k+ generations w/ 21k+ collections and $9k+ of fees)
 - [Limbo](https://starknet-limbo.vercel.app) - Provably fair game with verified fairness working on starknet
 - [WalletCleaner](https://wallet-cleaner.vercel.app) — Helps you burn the trash and clean your wallet
 
