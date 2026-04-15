@@ -25,6 +25,6 @@ Farcaster · RainbowKit · SIWE · Reown AppKit · Figma
 
 **find me**
 
-[twitter](https://twitter.com/tusharrvrma) · vermatushar237@gmail.com
-
+[twitter](https://twitter.com/tusharrvrma) · vermatushar237@gmail.com · [website](https://tusharvrma.xyz)
+ 
 
